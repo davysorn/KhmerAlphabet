@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\KhmerAlphabetNew\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-b9c961ec701067bcbc72975365afb2f857894842.jar" />
+    </item>
+    <item
+        jar="D:\KhmerAlphabetNew\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="D:\KhmerAlphabetNew\app\build\intermediates\pre-dexed\debug\classes-872da1680d534de10bff3b75327fd1d9dfeabdf7.jar" />
+    </item>
+
+</items>

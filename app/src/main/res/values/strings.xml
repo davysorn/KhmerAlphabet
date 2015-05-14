@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">អក្ខរក្រមភាសារខ្មែរ - Khmer Alphabet</string>
+	<string name="action_about_us">About Us</string>
+    <string name="action_settings">Settings</string>
+    <string name="exercise_tittle">ធ្វើលំហាត់ដោយគូរផ្គងសំលេងជាមួយអក្សរ</string>
+    
+    <string-array name="regionsList">
+      <item>random-alphabet-01</item>
+      <item>random-alphabet-02</item>
+      <item>random-alphabet-03</item>
+      </string-array>
+       <string name="choices">Select Number of Choices</string>
+   <string name="correct_answer"><font fgcolor="green">Correct :)</font></string>
+   <string name="guess_country">Guess the Country</string>
+   <string name="guesses">Answers</string>  
+   <string name="incorrect_answer"><font fgcolor="red">Please Try again :( !!!</font></string>
+   <string name="more_regions_title">More Regions Required</string>
+   <string name="more_regions_message">There are not enough countries in 
+      the selected regions. Please select more regions.</string>
+   <string name="of">of</string>
+   <string name="ok">OK</string>
+   <string name="question">Question</string>
+   <string name="quiz_title">Ten Question Flag Quiz</string>
+   <string name="regions">Select Regions</string>
+   <string name="reset_quiz">Reset Quiz</string>  
+</resources>

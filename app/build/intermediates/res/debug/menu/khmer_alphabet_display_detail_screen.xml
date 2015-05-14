@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_watch"
+          android:icon="@drawable/ic_watch"
+          android:title="watch"/>
+    <item android:id="@+id/action_listen"
+          android:icon="@drawable/ic_listen"
+          android:title="listen" />
+
+</menu>
+<!-- From: file:/D:/KhmerAlphabetNew/app/src/main/res/menu/khmer_alphabet_display_detail_screen.xml -->

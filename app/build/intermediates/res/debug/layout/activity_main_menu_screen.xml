@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@drawable/sc_main"
+    android:gravity="top" >
+
+    <ImageView
+        android:id="@+id/imageViewConsonantLearning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/imageViewVowelLearning"
+        android:layout_marginLeft="32dp"
+        android:src="@drawable/ic_consonant_learning" />
+
+    <ImageView
+        android:id="@+id/imageExercise"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="23dp"
+        android:layout_toLeftOf="@+id/imageExerciseVowel"
+        android:src="@drawable/ic_exercise" />
+
+    <ImageView
+        android:id="@+id/imageExerciseVowel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="43dp"
+        android:src="@drawable/exvowel" />
+
+    <ImageView
+        android:id="@+id/imageViewVowelLearning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="16dp"
+        android:layout_toLeftOf="@+id/imageExercise"
+        android:src="@drawable/ic_vowel_learning" />
+
+</RelativeLayout><!-- From: file:/D:/KhmerAlphabetNew/app/src/main/res/layout/activity_main_menu_screen.xml -->
